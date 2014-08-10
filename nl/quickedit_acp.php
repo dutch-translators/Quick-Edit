@@ -39,5 +39,5 @@ $lang = array_merge($lang, array(
 	'ALLOW_QUICK_EDIT_EXPLAIN'	=> 'Deze schakelaar staat toe dat de snelle wijziging op het gehele forum uitgeschakeld wordt. Wanneer ingeschakeld, dan zullen forum specifieke instellingen gebruikt worden om te bepalen of de snelle wijziging beschikbaar is op individuele forums.',
 	'ALLOW_QUICK_EDIT_BUTTON'	=> 'Verstuur en schakel snelle wijziging in op alle forums',
 	'ENABLE_QUICK_EDIT'			=> 'Snelle wijziging inschakelen',
-	'ENABLE_QUICK_EDIT_EXPLAIN'	=> 'Schakelt snelle wijziging in op dit forum. Deze instelling wordt niet uitgevoerd als de snelle wijziging is uitgeschakelt op het hele forum. De snelle wijziging zal alleen beschikbaar zijn voor gebruikers die permissie hebben om berichten te wijzigen in dit forum.',
+	'ENABLE_QUICK_EDIT_EXPLAIN'	=> 'Schakelt snelle wijziging in op dit forum. Deze instelling wordt niet uitgevoerd als de snelle wijziging is uitgeschakeld op het hele forum. De snelle wijziging zal alleen beschikbaar zijn voor gebruikers die permissie hebben om berichten te wijzigen in dit forum.',
 )); 
